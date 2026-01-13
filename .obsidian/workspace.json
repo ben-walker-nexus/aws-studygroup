@@ -4,19 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "d00bccabb813d8f7",
+        "id": "09cecc936ad6087d",
         "type": "tabs",
         "children": [
           {
-            "id": "b5715dcd60db2bd0",
+            "id": "08fdf0ce9b4fd258",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IAM Roles/User.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "User"
+            }
+          },
+          {
+            "id": "57bbaffc6c7060db",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "IAM Roles/_Knowledge Base.canvas",
                 "viewState": {
-                  "x": -60,
-                  "y": -65.55999999999999,
+                  "x": -255.3000000000001,
+                  "y": -99.75000000000003,
                   "zoom": 0
                 }
               },
@@ -24,7 +38,8 @@
               "title": "_Knowledge Base"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,12 +214,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8778a3f9662e0e7",
+  "active": "57bbaffc6c7060db",
   "lastOpenFiles": [
+    "IAM Roles/Basic Userpool Diagram.md",
+    "Excalidraw/Drawing 2026-01-13 16.39.57.excalidraw.md",
     "IAM Roles/User.md",
-    "IAM Roles/Groups.md",
-    "IAM Roles/_Knowledge Base.canvas",
+    "Excalidraw",
     "Welcome.md",
+    "IAM Roles/_Knowledge Base.canvas",
+    "IAM Roles/Groups.md",
     "IAM Roles",
     "Untitled.base"
   ]

@@ -25,17 +25,14 @@
             "id": "57bbaffc6c7060db",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "IAM Roles/_Knowledge Base.canvas",
-                "viewState": {
-                  "x": -255.3000000000001,
-                  "y": -99.75000000000003,
-                  "zoom": 0
-                }
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "_Knowledge Base"
+              "icon": "lucide-file",
+              "title": "Welcome"
             }
           }
         ],
@@ -112,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IAM Roles/_Knowledge Base.canvas",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _Knowledge Base"
+              "title": "Backlinks for Welcome"
             }
           },
           {
@@ -131,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IAM Roles/_Knowledge Base.canvas",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from _Knowledge Base"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
@@ -174,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IAM Roles/_Knowledge Base.canvas",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _Knowledge Base"
+              "title": "Outline of Welcome"
             }
           },
           {
@@ -216,12 +213,12 @@
   },
   "active": "57bbaffc6c7060db",
   "lastOpenFiles": [
+    "IAM Roles/_Knowledge Base.canvas",
     "IAM Roles/Basic Userpool Diagram.md",
     "Excalidraw/Drawing 2026-01-13 16.39.57.excalidraw.md",
     "IAM Roles/User.md",
     "Excalidraw",
     "Welcome.md",
-    "IAM Roles/_Knowledge Base.canvas",
     "IAM Roles/Groups.md",
     "IAM Roles",
     "Untitled.base"

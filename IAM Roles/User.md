@@ -1,0 +1,1 @@
+A user represents a single workable account.

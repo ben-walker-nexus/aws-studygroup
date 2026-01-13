@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"683f11a4a2e35696","type":"file","file":"IAM Roles/Groups.md","x":-260,"y":-240,"width":400,"height":160},
+		{"id":"a92b93eef575e9e0","x":-260,"y":-20,"width":400,"height":107,"type":"file","file":"IAM Roles/User.md"}
+	],
+	"edges":[
+		{"id":"79b6beed409a3900","fromNode":"683f11a4a2e35696","fromSide":"bottom","toNode":"a92b93eef575e9e0","toSide":"top"}
+	]
+}

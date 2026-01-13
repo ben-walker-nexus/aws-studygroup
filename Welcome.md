@@ -1,1 +1,1 @@
-Lorem Ipsum
+AWS Study Group Repo

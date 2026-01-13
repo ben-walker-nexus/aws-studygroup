@@ -1,0 +1,2 @@
+- Groups can be made of multiple [[User]]s but not other Groups
+- [[User]]s can be in multiple groups

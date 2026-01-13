@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2c9b51d16b9a9051",
+        "id": "d00bccabb813d8f7",
         "type": "tabs",
         "children": [
           {
-            "id": "4508ace3b7c0bb48",
+            "id": "b5715dcd60db2bd0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
+                "file": "IAM Roles/_Knowledge Base.canvas",
+                "viewState": {
+                  "x": -60,
+                  "y": -65.55999999999999,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Welcome"
+              "icon": "lucide-layout-dashboard",
+              "title": "_Knowledge Base"
             }
           }
         ]
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "IAM Roles/_Knowledge Base.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for _Knowledge Base"
             }
           },
           {
@@ -113,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "IAM Roles/_Knowledge Base.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from _Knowledge Base"
             }
           },
           {
@@ -156,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "IAM Roles/_Knowledge Base.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of _Knowledge Base"
             }
           },
           {
@@ -196,8 +199,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6275cad747be2274",
+  "active": "b8778a3f9662e0e7",
   "lastOpenFiles": [
-    "Welcome.md"
+    "IAM Roles/User.md",
+    "IAM Roles/Groups.md",
+    "IAM Roles/_Knowledge Base.canvas",
+    "Welcome.md",
+    "IAM Roles",
+    "Untitled.base"
   ]
 }
